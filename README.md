@@ -15,7 +15,7 @@ The fellowship program provides grants and a friendly, collaborative work settin
 - Fellows will work in groups of three (trios).
 - Each fellow will commit to 32 hours per month, split into 2-hour sessions, 4 days a week.
 - The program will offer mentorship and support for fellows during their time in the program.
-- The program aims to test mentor-mentee interactions, collaboration, time constraints, and differences in expertise.
+- The program aims to foster mentor-mentee interactions, collaboration, adaptability to time constraints, and the sharing of diverse expertise.
 
 ## Motivation and Engagement
 
