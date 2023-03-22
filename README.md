@@ -1,6 +1,6 @@
 # Open Innovators Fellowship
 
-A collaborative program empowering creative individuals to contribute to open-source projects that promote autonomy and individual freedom through mentorship, skill-building, and a supportive atmosphere.
+A collaborative program empowering creative individuals to contribute to open-source projects that promote autonomy and individual freedom through mentorship, skill-building, and a welcoming atmosphere.
 
 ## Mission
 
