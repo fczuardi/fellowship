@@ -42,3 +42,25 @@ If you are interested in helping with the creation of this fund or becoming a fe
 - Telegram: [@fczuardi](https://t.me/fczuardi)
 - GitHub issues: [Open Innovators Fellowship Repository](https://github.com/fczuardi/open-innovators-fellowship/issues)
 - Nostr: npub1qe066sd43fjyudqesjsdh5p7k88cafprldvmafqd9zvnd7j27m0sxhwxvr
+
+## Inspirations and Acknowledgments
+
+This fellowship program draws inspiration from various innovative projects, movements, and concepts. We would like to acknowledge the following for their influence on our work:
+
+- [Free Software Foundation (FSF)](https://www.fsf.org/) - A non-profit organization that promotes computer user freedom and defends the rights of all free software users.
+- [Electronic Frontier Foundation (EFF)](https://www.eff.org/) - A leading non-profit organization defending civil liberties in the digital world, promoting digital privacy, and fostering the development of privacy-enhancing technologies.
+- [TAZ - Temporary Autonomous Zones](https://en.wikipedia.org/wiki/Temporary_Autonomous_Zone) - A concept that emphasizes the creation of temporary spaces outside of formal control, introduced by Hakim Bey.
+- [Cypherpunks Mailing List](https://en.wikipedia.org/wiki/Cypherpunk) - A historic mailing list where cypherpunks discussed and developed cryptography, privacy, and digital currency technologies.
+- [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) - A manifesto written by John Perry Barlow, proclaiming the independence of the Internet from the control of governments.
+- [Creative Commons](https://creativecommons.org/) - A non-profit organization that provides free, easy-to-use copyright licenses to make creative works available for others to legally share and build upon.
+- [Hackerspaces](https://en.wikipedia.org/wiki/Hackerspace) - Community-operated physical spaces where people with common interests can meet, socialize, and collaborate.
+- [Barcamp](https://en.wikipedia.org/wiki/BarCamp) - An international network of user-generated conferences focused on open, participatory workshop-events.
+- [The 4-Hour Workweek](https://en.wikipedia.org/wiki/The_4-Hour_Workweek) - A book by Tim Ferriss that explores the concept of lifestyle design and advocates for working more efficiently.
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original whitepaper for Bitcoin, a decentralized digital currency, introduced by Satoshi Nakamoto.
+- [Value4Value](https://en.wikipedia.org/wiki/Value_for_value) - A model based on reciprocal exchange of value between creators and consumers, popularized by the No Agenda podcast.
+- [Onibushacker](https://onibushacker.org) - A Brazilian community focused on promoting hacker culture, collaborative learning, and free software.
+- [Bitcoin Declaration of Sovereignty](http://trilema.com/2014/bitcoin-declaration-of-sovereignty/) - A manifesto by Mircea Popescu asserting the independence and self-sovereignty of Bitcoin users.
+- [Lightning Network](https://lightning.network/) - A layer-2 payment protocol built on top of the Bitcoin blockchain that aims to enable fast, scalable, and low-cost transactions.
+- [She256](https://she256.org/) - An organization dedicated to increasing diversity and breaking down barriers for entry into the blockchain and cryptocurrency space.
+- [Nostr](https://github.com/fiatjaf/nostr) - A protocol for creating decentralized and interoperable social networks.
+
