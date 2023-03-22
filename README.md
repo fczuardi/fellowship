@@ -4,7 +4,7 @@ A collaborative program empowering creative individuals to contribute to open-so
 
 ## Mission
 
-To support creative individuals working on open-source projects that promote financial autonomy, security, privacy, ease of use, accessibility, decentralization, and community involvement. The program emphasizes mentorship, skill-building, and fostering a welcoming environment.
+Our mission is to cultivate a global community of innovative individuals dedicated to developing open-source projects that empower people with financial autonomy, privacy, and self-sovereignty. Through mentorship, skill development, and the creation of a supportive atmosphere, we aim to foster collaboration and inspire meaningful contributions to the open-source ecosystem.
 
 ## Structure
 
