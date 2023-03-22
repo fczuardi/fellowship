@@ -59,7 +59,7 @@ This fellowship program draws inspiration from various innovative projects, move
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original whitepaper for Bitcoin, a decentralized digital currency, introduced by Satoshi Nakamoto.
 - [Value4Value](https://en.wikipedia.org/wiki/Value_for_value) - A model based on reciprocal exchange of value between creators and consumers, popularized by the No Agenda podcast.
 - [Onibushacker](https://www.facebook.com/onibushacker/) - A Brazilian community focused on promoting hacker culture, collaborative learning, and free software.
-- [Bitcoin Declaration of Sovereignty](http://trilema.com/2014/bitcoin-declaration-of-sovereignty/) - A manifesto by Mircea Popescu asserting the independence and self-sovereignty of Bitcoin users.
+- **Bitcoin Declaration of Sovereignty** - A manifesto by Mircea Popescu asserting the independence and self-sovereignty of Bitcoin users.
 - [Lightning Network](https://lightning.network/) - A layer-2 payment protocol built on top of the Bitcoin blockchain that aims to enable fast, scalable, and low-cost transactions.
 - [She256](https://she256.org/) - An organization dedicated to increasing diversity and breaking down barriers for entry into the blockchain and cryptocurrency space.
 - [Nostr](https://github.com/fiatjaf/nostr) - A protocol for creating decentralized and interoperable social networks.
