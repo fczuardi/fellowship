@@ -12,7 +12,9 @@ The fellowship program provides grants and a friendly, collaborative work settin
 
 ## Fellowship Format
 
-- Fellows will work in groups of three (trios).
+- Fellows will work in groups of three.
+  - Always in a co-op setting (duos or trios), never alone.
+  - No homeworks, all activities are executed inside the sessions, no heroism, no crunching, just constancy and regularity, building through cumullative stacking small chunks. "Stay humble, stack work".
 - Each fellow will commit to 32 hours per month, split into 2-hour sessions, 4 days a week.
 - The program will offer mentorship and support for fellows during their time in the program.
 - The program aims to encourage mentor-mentee interactions, collaboration, adaptability to time constraints, and the sharing of diverse expertise.
@@ -57,6 +59,7 @@ This fellowship program draws inspiration from various innovative projects, move
 - [Barcamp](https://en.wikipedia.org/wiki/BarCamp) - An international network of user-generated conferences focused on open, participatory workshop-events.
 - [The 4-Hour Workweek](https://en.wikipedia.org/wiki/The_4-Hour_Workweek) - A book by Tim Ferriss that explores the concept of lifestyle design and advocates for working more efficiently.
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original whitepaper for Bitcoin, a decentralized digital currency, introduced by Satoshi Nakamoto.
+- [Eric Meyer, the Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) - Eric Meyer explores the hacker's mindset, the value of curiosity, and how understanding systems can lead to creative problem-solving and innovation.
 - [Value4Value](https://dergigi.com/2021/12/30/the-freedom-of-value/) - A model based on reciprocal exchange of value between creators and consumers.
 - [Onibushacker](https://www.facebook.com/onibushacker/) - A Brazilian community focused on promoting hacker culture, collaborative learning, and free software.
 - [Bitcoin Declaration of Sovereignty](http://deedbot.org/deed-2014-11-08-17-16-20.txt) - A manifesto by Mircea Popescu asserting the independence and self-sovereignty of Bitcoin users.
