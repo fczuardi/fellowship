@@ -15,7 +15,7 @@ The fellowship program provides grants and a friendly, collaborative work settin
 - Each fellow will commit to 32 hours per month, split into 2-hour sessions, 4 days a week.
 - Three fellows per cohort:
   - Always in a co-op setting (duos or trios), never alone.
-  - No homework, all activities are executed inside the sessions, no heroism, no crunching, just constancy and regularity, building through cumulative stacking of small chunks. "Stay humble, stack work."
+  - No homework, all activities are executed inside the sessions, no heroism, no crunching, just constancy and regularity, building through cumulative stacking of small chunks. Stay humble, stack work.
 - The program will offer mentorship and support for fellows during their time in the program.
 - The program aims to encourage mentor-mentee interactions, collaboration, adaptability to time constraints, and the sharing of diverse expertise.
 
