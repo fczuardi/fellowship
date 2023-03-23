@@ -58,7 +58,7 @@ This fellowship program draws inspiration from various innovative projects, move
 - [Wikipedia](https://www.wikipedia.org/) - A free, multilingual, open-collaborative online encyclopedia created and maintained by a community of volunteer editors, dedicated to making knowledge accessible to everyone.
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) - A manifesto written by John Perry Barlow, proclaiming the independence of the Internet from the control of governments.
 - [Creative Commons](https://creativecommons.org/) - A non-profit organization that provides free, easy-to-use copyright licenses to make creative works available for others to legally share and build upon.
-- - [Blender Foundation](https://www.blender.org/foundation/) - A non-profit organization fostering creativity through the development of Blender, a free and open-source 3D graphics software for art, animation, and visual effects.
+- [Blender Foundation](https://www.blender.org/foundation/) - A non-profit organization fostering creativity through the development of Blender, a free and open-source 3D graphics software for art, animation, and visual effects.
 - [Hackerspaces](https://en.wikipedia.org/wiki/Hackerspace) - Community-operated physical spaces where people with common interests can meet, socialize, and collaborate.
 - [Barcamp](https://en.wikipedia.org/wiki/BarCamp) - An international network of user-generated conferences focused on open, participatory workshop-events.
 - [The 4-Hour Workweek](https://en.wikipedia.org/wiki/The_4-Hour_Workweek) - A book by Tim Ferriss that explores the concept of lifestyle design and advocates for working more efficiently.
