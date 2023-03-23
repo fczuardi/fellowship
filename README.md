@@ -1,10 +1,10 @@
 # Open Innovators Fellowship
 
-A collaborative program empowering creative individuals to contribute to open-source projects that promote autonomy and individual freedom through mentorship, skill-building, and a welcoming atmosphere.
+A collaborative program empowering creative individuals to contribute to free-software and open-source projects.
 
 ## Mission
 
-Our mission is to cultivate a global community of innovative individuals dedicated to developing open-source projects that empower people with financial autonomy, privacy, and self-sovereignty. Through mentorship, skill development, and the creation of a supportive atmosphere, we aim to foster collaboration and inspire meaningful contributions to the open-source ecosystem.
+Our mission is to cultivate a global community of innovative individuals dedicated to developing open-source projects that empower people with financial autonomy, privacy, and self-sovereignty. Through mentorship, skill development, and the creation of a supportive atmosphere, we aim to foster collaboration and inspire meaningful contributions to open ecosystems.
 
 ## Structure
 
@@ -28,7 +28,7 @@ The fellowship program provides grants and a friendly, collaborative work settin
 
 ## Funding and Financial Incentives
 
-- Fellows will be compensated with the equivalent of US$ {{hourly_rate}} per hour in sats (sotoshis, the smallest unit of a bitcoin), totaling the equivalent of US$ {{hourly_rate * 2}} in sats per two-hour session. Stay humble, stack sats.
+- Fellows will be compensated with the equivalent of US$ {{hourly_rate}} per hour in sats (Satoshis, the smallest unit of a bitcoin), totaling the equivalent of US$ {{hourly_rate * 2}} in sats per two-hour session. Stay humble, stack sats.
 - Fellows will receive profit-sharing opportunities for any original new services or products created during their work sessions.
 - The program will explore various funding sources, including community support, sponsorships, and potential advertising opportunities.
 
