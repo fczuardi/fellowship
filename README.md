@@ -25,7 +25,7 @@ The fellowship program provides grants and a friendly, collaborative work settin
 
 ## Funding and Financial Incentives
 
-- Fellows will be compensated with the equivalent of US$ XX per hour in sats (the smallest unit of a bitcoin), totaling US$ YYY per two-hour session.
+- Fellows will be compensated with the equivalent of US$ {{hourly_rate}} per hour in sats (sotoshis, the smallest unit of a bitcoin), totaling the equivalent of US$ {{hourly_rate * 2}} in sats per two-hour session. "Stay humble, stack sats".
 - Fellows will receive profit-sharing opportunities for any original new services or products created during their work sessions.
 - The program will explore various funding sources, including community support, sponsorships, and potential advertising opportunities.
 
