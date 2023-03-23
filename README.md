@@ -67,7 +67,7 @@ This fellowship program draws inspiration from various innovative projects, move
 - [Value4Value](https://dergigi.com/2021/12/30/the-freedom-of-value/) - A model based on reciprocal exchange of value between creators and consumers.
 - [Onibushacker](https://www.facebook.com/onibushacker/) - A Brazilian community focused on promoting hacker culture, collaborative learning, and free software.
 - [Bitcoin Declaration of Sovereignty](http://deedbot.org/deed-2014-11-08-17-16-20.txt) - A manifesto by Mircea Popescu asserting the independence and self-sovereignty of Bitcoin users.
-- [Lightning Network](https://lightning.network/) - A layer-2 payment protocol built on top of the Bitcoin blockchain that aims to enable fast, scalable, and low-cost transactions.
+- [Lightning Network](https://lightning.network/) - A layer-2 payment protocol built on top of the Bitcoin timechain that aims to enable fast, scalable, and low-cost transactions.
 - [She256](https://she256.org/) - An organization dedicated to increasing diversity and breaking down barriers for entry into the blockchain and cryptocurrency space.
 - [Nostr](https://github.com/fiatjaf/nostr) - A protocol for creating decentralized and interoperable social networks.
 
