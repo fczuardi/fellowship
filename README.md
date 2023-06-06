@@ -1,4 +1,4 @@
-# {{to-be-named}} Fellowship
+# Falafel Fellowship
 
 A collaborative program empowering creative individuals to contribute to free-software and open-source projects.
 
@@ -43,7 +43,7 @@ If you are interested in helping with the creation of this fund or becoming a fe
 
 - Twitter: [@fczuardi](https://twitter.com/fczuardi)
 - Telegram: [@fczuardi](https://t.me/fczuardi)
-- GitHub issues: [Open Innovators Fellowship Repository](https://github.com/fczuardi/open-innovators-fellowship/issues)
+- GitHub issues: [Falafel Fellowship Repository](https://github.com/fczuardi/fellowship/issues)
 - Nostr: npub1qe066sd43fjyudqesjsdh5p7k88cafprldvmafqd9zvnd7j27m0sxhwxvr
 
 ## Inspirations and Acknowledgments
