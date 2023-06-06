@@ -1,4 +1,4 @@
-# Falafel Fellowship
+# Falafel Fellows
 
 A collaborative program empowering creative individuals to contribute to free-software and open-source projects.
 
